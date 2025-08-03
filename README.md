@@ -1,8 +1,8 @@
 ## Movie Rating Prediction
 
-## Author: Hetanshi Acharya
+## Author: DHARM PRAKASH
 
-## Batch: July
+## Batch: 15 July 2025 to 15 August 2025 
 
 ## Domain: Data Science
 
